@@ -1,4 +1,4 @@
-# static-website-docker
+# Static Website Docker
 ## Project for building a Static Website with Docker
 
 * Used Docker to build a container image for a simple static website.

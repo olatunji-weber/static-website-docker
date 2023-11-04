@@ -39,6 +39,14 @@ section {
     padding: 20px;
 }
 
+/* Apply styles to the image with the "rounded-image" class */
+.rounded-image {
+    width: 100px; /* Set the width to 100 pixels */
+    height: 100px; /* Set the height to 100 pixels */
+    border-radius: 50%; /* Apply rounded edges (border-radius) of 50 pixels, creating a circle */
+}
+
+
 .project, .review {
     text-align: center;
     margin: 20px;
